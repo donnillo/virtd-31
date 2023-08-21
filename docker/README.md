@@ -31,9 +31,9 @@ Hey, Netology
 >
 > Следующие команды были выполнены, чтобы собрать и опубликовать образ:
 >
-> `bash docker build . -t donnillo/nginx-netology-devops`
+> `docker build . -t donnillo/nginx-netology-devops`
 >
-> `bash docker push donnillo/nginx-netology-devops`
+> `docker push donnillo/nginx-netology-devops`
 >
 > Итоговый образ доступен по [ссылке на DockerHub](https://hub.docker.com/r/donnillo/nginx-netology-devops)
 
